@@ -1,0 +1,16 @@
+{
+  "name": "ci-cd-practice",
+  "version": "1.0.0",
+  "description": "Projeto de prática para CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+}
+}
+}
